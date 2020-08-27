@@ -1,0 +1,10 @@
+.cart-body{
+    text-align: center;
+    border-bottom: 1px solid gray;
+}
+.cart-area{
+    background: lightseagreen;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+}
